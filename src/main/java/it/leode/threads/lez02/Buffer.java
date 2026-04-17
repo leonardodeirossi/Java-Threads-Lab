@@ -4,7 +4,7 @@ public class Buffer {
 
     private int data;
     private boolean isAvailable = false;
-
+    
     public synchronized void produce(int newData) {
         while (this.isAvailable) {
             try {
