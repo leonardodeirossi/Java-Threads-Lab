@@ -12,6 +12,7 @@ Without this configuration present, some functionality in the IDE may be limited
             <configuration id="Threads-Lez02" profiles=""/>
             <configuration id="Threads-Lez03a" profiles=""/>
             <configuration id="Threads-Lez03b" profiles=""/>
+            <configuration id="Threads-Lez04" profiles=""/>
         </configurations>
     </config-data>
 </project-shared-configuration>

@@ -1,4 +1,4 @@
-package it.leode.threads.lez03b;
+package it.leode.threads.lez04;
 
 public class Lavoratore implements Runnable {
     private final Stampante stampante;
