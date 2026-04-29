@@ -1,4 +1,4 @@
-package it.leode.threads.lez03;
+package it.leode.threads.lez03b;
 
 import java.util.Scanner;
 
